@@ -1,11 +1,10 @@
 {
-  "latestVersion": "10.4",
-  "latestVersionCode": 104,
+  "latestVersion": "10.5",
+  "latestVersionCode": 105,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.half.light.iconpack",
   "releaseNotes": [
-    "Added 200 Icons",
+    "Added 120 Icons",
     "Added Premium Requests",
-    "New Icon Preview Layout-A To Z",
     "Added Icons From The Paid Version"
   ]
 }
