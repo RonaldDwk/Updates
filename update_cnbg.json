@@ -1,9 +1,12 @@
 {
-  "latestVersion": "13.1",
-  "latestVersionCode": 131,
+  "latestVersion": "13.2",
+  "latestVersionCode": 132,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
   "releaseNotes": [
-    "Added 110 Icons",
-    "Added Premium Requests"
+    "Fixes For Android 11:",
+    "Email Fix",
+    "Icon Request Fix",
+    "Default Launcher Fix",
+    "More Languages Added"
   ]
 }
