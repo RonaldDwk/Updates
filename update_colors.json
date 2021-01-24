@@ -1,8 +1,13 @@
 {
-  "latestVersion": "5.9",
-  "latestVersionCode": 59,
+  "latestVersion": "6.0",
+  "latestVersionCode": 60,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colors.iconpack",
   "releaseNotes": [
+    "Fixes For Android 11:",
+    "Email Fix",
+    "Icon Request Fix",
+    "Default Launcher Fix",
+    "More Languages Added",
     "Added Premium Requests"
   ]
 }
