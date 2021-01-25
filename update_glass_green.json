@@ -1,12 +1,13 @@
 {
-  "latestVersion": "6.3",
-  "latestVersionCode": 63,
+  "latestVersion": "6.4",
+  "latestVersionCode": 64,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.green.glass.orb.iconpack",
   "releaseNotes": [
-    "Added 600 Icons",
-    "Added Premium Requests",
-    "New Apply Layout",
-    "More Launchers Added",
-    "More Languages Added"
+    "Fixes For Android 11:",
+    "Email Fix",
+    "Icon Request Fix",
+    "Default Launcher Fix",
+    "More Languages Added",
+    "Added Premium Requests"
   ]
 }
