@@ -1,8 +1,9 @@
 {
-  "latestVersion": "14.2",
-  "latestVersionCode": 142,
+  "latestVersion": "14.4",
+  "latestVersionCode": 144,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
   "releaseNotes": [
-    "Added Premium Requests"
+    "Added Premium Requests",
+    "Added Option To Bookmark Icons"
   ]
 }
