@@ -1,9 +1,8 @@
 {
-  "latestVersion": "2.1",
-  "latestVersionCode": 21,
+  "latestVersion": "2.2",
+  "latestVersionCode": 22,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.pixel.glass.iconpack",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added Option To Bookmark Icons"
+    "Added Premium Requests"
   ]
 }
