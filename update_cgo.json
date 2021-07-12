@@ -1,8 +1,9 @@
 {
-  "latestVersion": "4.7",
-  "latestVersionCode": 47,
+  "latestVersion": "4.9",
+  "latestVersionCode": 49,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.glass.orb.iconpack",
   "releaseNotes": [
+    "Added Option To Bookmark Icons",
     "Added Premium Requests"
   ]
 }
