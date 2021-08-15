@@ -1,8 +1,11 @@
 {
-  "latestVersion": "14.9",
-  "latestVersionCode": 149,
+  "latestVersion": "15.0",
+  "latestVersionCode": 150,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
   "releaseNotes": [
-    "Added Premium Requests"
+    "Added Premium Requests",
+    "Added Hyperion Launcher",
+	"Added Basic Kustom Support",
+	"Added Option To Search Wallpapers"
   ]
 }
