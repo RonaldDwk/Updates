@@ -1,11 +1,8 @@
 {
-  "latestVersion": "8.0",
-  "latestVersionCode": 80,
+  "latestVersion": "8.2",
+  "latestVersionCode": 82,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.sleek.iconpack.v1",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added Hyperion Launcher",
-    "Added Basic Kustom Support",
-    "Added Option To Search Wallpapers"
+    "Added Premium Requests"
   ]
 }
