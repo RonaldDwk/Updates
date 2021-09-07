@@ -1,11 +1,8 @@
 {
-  "latestVersion": "7.5",
-  "latestVersionCode": 75,
+  "latestVersion": "7.7",
+  "latestVersionCode": 77,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.black.and.pink.iconpack",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added Hyperion Launcher",
-    "Added Basic Kustom Support",
-    "Added Option To Search Wallpapers"
+    "Added Premium Requests"
   ]
 }
