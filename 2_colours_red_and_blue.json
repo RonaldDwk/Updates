@@ -1,8 +1,11 @@
 {
-  "latestVersion": "2.9",
-  "latestVersionCode": 29,
+  "latestVersion": "3.0",
+  "latestVersionCode": 30,
   "url": "https://play.google.com/store/apps/details?id=com.ronalddwk.red.and.blue.iconpack",
   "releaseNotes": [
-    "Fixed Languages"
+    "Added Premium Requests",
+    "Added Hyperion Launcher",
+    "Added Basic Kustom Support",
+    "Added Option To Search Wallpapers"
   ]
 }
