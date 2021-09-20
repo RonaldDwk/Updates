@@ -1,11 +1,9 @@
 {
-  "latestVersion": "2.7",
-  "latestVersionCode": 27,
+  "latestVersion": "2.8",
+  "latestVersionCode": 28,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.wicked.cyan.iconpack",
-  "releaseNotes": [
+   "releaseNotes": [
     "Added Premium Requests",
-    "Added Hyperion Launcher",
-    "Added Basic Kustom Support",
-    "Added Option To Search Wallpapers"
+    "Added Android 12 Support"
   ]
 }
