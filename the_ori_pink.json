@@ -1,11 +1,9 @@
 {
-  "latestVersion": "7.9",
-  "latestVersionCode": 79,
+  "latestVersion": "8.0",
+  "latestVersionCode": 80,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.pink.iconpack",
   "releaseNotes": [
-    "Fixed Languages",
-    "Added Premium Request Option",
-    "Added Check For Update Option",
-    "Added Option To Bookmark Icons"
+    "Added Premium Requests",
+    "Added Android 12 Support"
   ]
 }
