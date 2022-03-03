@@ -1,12 +1,8 @@
 {
-  "latestVersion": "4.9",
-  "latestVersionCode": 49,
+  "latestVersion": "6.3",
+  "latestVersionCode": 63,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.white.iconpack.style.two",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added Hyperion Launcher",
-    "Added Android 12 Support",
-    "Added Basic Kustom Support",
-    "Added Option To Search Wallpapers"
+    "Added Premium Requests"
   ]
 }
