@@ -1,10 +1,8 @@
 {
-  "latestVersion": "3.8",
-  "latestVersionCode": 38,
+  "latestVersion": "3.9",
+  "latestVersionCode": 39,
   "url": "https://play.google.com/store/apps/details?id=com.illmatic.black.colors.iconpack",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added All My Icon Packs With Links",
-    "www.androidiconpacks.com"
+    "Added Premium Requests"
   ]
 }
