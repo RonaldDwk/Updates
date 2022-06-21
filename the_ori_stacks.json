@@ -1,10 +1,8 @@
 {
-  "latestVersion": "9.7",
-  "latestVersionCode": 97,
+  "latestVersion": "9.8",
+  "latestVersionCode": 98,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.stacks.iconpack",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added All My Icon Packs With Links",
-    "www.androidiconpacks.com"
+    "Added Premium Requests"
   ]
 }
