@@ -1,10 +1,8 @@
 {
-  "latestVersion": "7.7",
-  "latestVersionCode": 77,
+  "latestVersion": "7.8",
+  "latestVersionCode": 78,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.green.iconpack.style.six",
   "releaseNotes": [
-    "Added Premium Requests",
-    "Added All My Icon Packs With Links",
-    "www.androidiconpacks.com"
+    "Added Premium Requests"
   ]
 }
