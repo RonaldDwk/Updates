@@ -1,8 +1,9 @@
 {
-  "latestVersion": "4.0",
-  "latestVersionCode": 40,
+  "latestVersion": "4.1",
+  "latestVersionCode": 41,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.red.glass.orb.iconpack.paid",
   "releaseNotes": [
-    "Added Requested Icons"
+    "Added Requested Icons",
+    "Fixed Icon Requests when using Gmail"
   ]
 }
