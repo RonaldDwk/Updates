@@ -1,9 +1,8 @@
 {
-  "latestVersion": "13.0",
-  "latestVersionCode": 130,
+  "latestVersion": "13.1",
+  "latestVersionCode": 131,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.blue.glass.orb.iconpack",
   "releaseNotes": [
-    "Added Requested Icons",
-    "Added One UI Launcher In Apply Section"
+    "Added Requested Icons"
   ]
 }
