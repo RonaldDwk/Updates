@@ -1,8 +1,9 @@
 {
-  "latestVersion": "33.4",
-  "latestVersionCode": 334,
+  "latestVersion": "33.5",
+  "latestVersionCode": 335,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
   "releaseNotes": [
+    "Added Requested Icons",
     "Added Premium Requests"
   ]
 }
