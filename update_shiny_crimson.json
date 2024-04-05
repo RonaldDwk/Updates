@@ -1,8 +1,9 @@
 {
-  "latestVersion": "12.2",
-  "latestVersionCode": 122,
+  "latestVersion": "12.3",
+  "latestVersionCode": 123,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.crimson.iconpack",
   "releaseNotes": [
+    "Added Requested Icons",
     "Added Premium Requests"
   ]
 }
