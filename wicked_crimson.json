@@ -1,8 +1,9 @@
 {
-  "latestVersion": "9.2",
-  "latestVersionCode": 92,
+  "latestVersion": "9.4",
+  "latestVersionCode": 94,
   "url": "https://play.google.com/store/apps/details?id=com.ronald.wicked.crimson.iconpack",
   "releaseNotes": [
+    "Added Requested Icons",
     "Added Premium Requests"
   ]
 }
